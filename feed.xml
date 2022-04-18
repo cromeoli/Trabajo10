@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Noticias Críticas]]></title>
+        <description><![CDATA[Serie de noticias de actualidad referentes al conflicto que se está desarrollando actualmente entre Rusia y Ucrania.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 18 Apr 2022 18:09:32 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[Rusia ampliará su fuerza nuclear si Suecia y Finlandia entran en la OTAN]]></title>
+            <description><![CDATA[Moscú sostiene que la expansión de la Alianza no aportará estabilidad a Europa]]></description>
+            <guid isPermaLink="false">Rusia ampliará su fuerza nuclear si Suecia y Finlandia entran en la OTAN</guid>
+            <dc:creator><![CDATA[Gonzalo Aragonés]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[El dado de hierro sigue girando: Rusia y Ucrania preparan la gran batalla del Donbás]]></title>
+            <description><![CDATA[El consenso general de los polemólogos sigue siendo el mismo que hace dos o tres semanas: el Kremlin invadió con expectativas fantasiosas]]></description>
+            <guid isPermaLink="false">El dado de hierro sigue girando: Rusia y Ucrania preparan la gran batalla del Donbás</guid>
+            <dc:creator><![CDATA[Argemino Barro]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Masacre en Bucha: El relato de los corresponsales de guerra]]></title>
+            <description><![CDATA[La versión de Ucrania y Rusia sobre lo sucedido en Bucha es enormemente distante. Las expresiones y las palabras de quienes han ido en persona a este enclave en la provincia de Kiev y han regresado para contarlo al mundo no engañan]]></description>
+            <guid isPermaLink="false">Masacre en Bucha: El relato de los corresponsales de guerra</guid>
+            <dc:creator><![CDATA[Antoni Agüera]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Rusia ataca un centenar de militares ucranianos cerca de Mariúpol]]></title>
+            <description><![CDATA[Los separatistas prorrusos niegan haber usado armas químicas en Mariúpol. Kyiv anticipa días tensos en la región del Donbass y las fuerzas prorrusas anuncian toma puerto Mariúpol.]]></description>
+            <guid isPermaLink="false">Rusia ataca un centenar de militares ucranianos cerca de Mariúpol</guid>
+            <dc:creator><![CDATA[Laia Vila Barcelona]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Víktor Medvedchuk: el 'hombre de Putin' en Ucrania]]></title>
+            <description><![CDATA[Ucrania detiene en una 'operación especial' al político y empresario, que estaba bajo arresto domiciliario y escapó después de que los tanques rusos entrasen en Ucrania]]></description>
+            <guid isPermaLink="false">Víktor Medvedchuk: el &apos;hombre de Putin&apos; en Ucrania</guid>
+            <dc:creator><![CDATA[Gonzalo Aragonés]]></dc:creator>
+        </item>
+    </channel>
+</rss>
